@@ -40,9 +40,9 @@ Forked from the great FreezyEx!
 Apprechiate all the help and support bro!
 
 */
-//      Tokenomics and distribution 11% total tax
+//      Tokenomics and distribution 12% total tax
 //      Charity 4%
-//      Holder Rewards 2%
+//      Holder Rewards 3%
 //      Auto Locking Liquidity 2%
 //      Marketing and Development team 2%
 //      Burn 1%
